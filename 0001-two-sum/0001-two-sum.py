@@ -8,4 +8,5 @@ class Solution:
 s=Solution()
 print(s.twoSum)
 
-        
+# outer loop runs n times , inner loop can also run up to n times. tc = O(n × n) = O(n²)
+#variables (i, j) are used.sc =O(1)
