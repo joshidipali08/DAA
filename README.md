@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/joshidipali08/DAA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/joshidipali08/DAA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/joshidipali08/DAA/tree/master/0324-wiggle-sort-ii) |
+| [0912-sort-an-array](https://github.com/joshidipali08/DAA/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/joshidipali08/DAA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/joshidipali08/DAA/tree/master/0324-wiggle-sort-ii) |
 | [0372-super-pow](https://github.com/joshidipali08/DAA/tree/master/0372-super-pow) |
+| [0912-sort-an-array](https://github.com/joshidipali08/DAA/tree/master/0912-sort-an-array) |
 | [1763-longest-nice-substring](https://github.com/joshidipali08/DAA/tree/master/1763-longest-nice-substring) |
 ## Tree
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/joshidipali08/DAA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/joshidipali08/DAA/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/joshidipali08/DAA/tree/master/0324-wiggle-sort-ii) |
+| [0912-sort-an-array](https://github.com/joshidipali08/DAA/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/joshidipali08/DAA/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/joshidipali08/DAA/tree/master/0912-sort-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -142,4 +146,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/joshidipali08/DAA/tree/master/0372-super-pow) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/joshidipali08/DAA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/joshidipali08/DAA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/joshidipali08/DAA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/joshidipali08/DAA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
