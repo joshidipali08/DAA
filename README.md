@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/joshidipali08/DAA/tree/master/0324-wiggle-sort-ii) |
 | [0409-longest-palindrome](https://github.com/joshidipali08/DAA/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/joshidipali08/DAA/tree/master/0455-assign-cookies) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/joshidipali08/DAA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/joshidipali08/DAA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/joshidipali08/DAA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/joshidipali08/DAA/tree/master/0324-wiggle-sort-ii) |
+| [0455-assign-cookies](https://github.com/joshidipali08/DAA/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/joshidipali08/DAA/tree/master/0912-sort-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/joshidipali08/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/joshidipali08/DAA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/joshidipali08/DAA/tree/master/0027-remove-element) |
 | [0148-sort-list](https://github.com/joshidipali08/DAA/tree/master/0148-sort-list) |
+| [0455-assign-cookies](https://github.com/joshidipali08/DAA/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/joshidipali08/DAA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/joshidipali08/DAA/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/joshidipali08/DAA/tree/master/0324-wiggle-sort-ii) |
+| [0455-assign-cookies](https://github.com/joshidipali08/DAA/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/joshidipali08/DAA/tree/master/0912-sort-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/joshidipali08/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Counting
@@ -177,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/joshidipali08/DAA/tree/master/0912-sort-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/joshidipali08/DAA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
