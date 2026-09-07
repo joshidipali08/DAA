@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/joshidipali08/DAA/tree/master/0324-wiggle-sort-ii) |
 | [0409-longest-palindrome](https://github.com/joshidipali08/DAA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/joshidipali08/DAA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/joshidipali08/DAA/tree/master/0561-array-partition) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/joshidipali08/DAA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/joshidipali08/DAA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/joshidipali08/DAA/tree/master/0324-wiggle-sort-ii) |
 | [0455-assign-cookies](https://github.com/joshidipali08/DAA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/joshidipali08/DAA/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/joshidipali08/DAA/tree/master/0912-sort-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/joshidipali08/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/joshidipali08/DAA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/joshidipali08/DAA/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/joshidipali08/DAA/tree/master/0324-wiggle-sort-ii) |
 | [0455-assign-cookies](https://github.com/joshidipali08/DAA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/joshidipali08/DAA/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/joshidipali08/DAA/tree/master/0912-sort-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/joshidipali08/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Counting
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/joshidipali08/DAA/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/joshidipali08/DAA/tree/master/0912-sort-an-array) |
 ## Quicksort
 |  |
