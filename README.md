@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/joshidipali08/DAA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/joshidipali08/DAA/tree/master/0409-longest-palindrome) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/joshidipali08/DAA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1763-longest-nice-substring](https://github.com/joshidipali08/DAA/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/joshidipali08/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2864-maximum-odd-binary-number](https://github.com/joshidipali08/DAA/tree/master/2864-maximum-odd-binary-number) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/joshidipali08/DAA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/joshidipali08/DAA/tree/master/0561-array-partition) |
 | [0976-largest-perimeter-triangle](https://github.com/joshidipali08/DAA/tree/master/0976-largest-perimeter-triangle) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/joshidipali08/DAA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2706-buy-two-chocolates](https://github.com/joshidipali08/DAA/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/joshidipali08/DAA/tree/master/2864-maximum-odd-binary-number) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/joshidipali08/DAA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/joshidipali08/DAA/tree/master/0169-majority-element) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/joshidipali08/DAA/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
