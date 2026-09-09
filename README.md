@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/joshidipali08/DAA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1763-longest-nice-substring](https://github.com/joshidipali08/DAA/tree/master/1763-longest-nice-substring) |
 | [1903-largest-odd-number-in-string](https://github.com/joshidipali08/DAA/tree/master/1903-largest-odd-number-in-string) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/joshidipali08/DAA/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/joshidipali08/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2864-maximum-odd-binary-number](https://github.com/joshidipali08/DAA/tree/master/2864-maximum-odd-binary-number) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/joshidipali08/DAA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/joshidipali08/DAA/tree/master/0976-largest-perimeter-triangle) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/joshidipali08/DAA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/joshidipali08/DAA/tree/master/1903-largest-odd-number-in-string) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/joshidipali08/DAA/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2706-buy-two-chocolates](https://github.com/joshidipali08/DAA/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/joshidipali08/DAA/tree/master/2864-maximum-odd-binary-number) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/joshidipali08/DAA/tree/master/3348-smallest-divisible-digit-product-ii) |
