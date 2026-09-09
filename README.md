@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/joshidipali08/DAA/tree/master/0976-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/joshidipali08/DAA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1903-largest-odd-number-in-string](https://github.com/joshidipali08/DAA/tree/master/1903-largest-odd-number-in-string) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/joshidipali08/DAA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2864-maximum-odd-binary-number](https://github.com/joshidipali08/DAA/tree/master/2864-maximum-odd-binary-number) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/joshidipali08/DAA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/joshidipali08/DAA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2027-minimum-moves-to-convert-string](https://github.com/joshidipali08/DAA/tree/master/2027-minimum-moves-to-convert-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/joshidipali08/DAA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/joshidipali08/DAA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/joshidipali08/DAA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2706-buy-two-chocolates](https://github.com/joshidipali08/DAA/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/joshidipali08/DAA/tree/master/2864-maximum-odd-binary-number) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/joshidipali08/DAA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/joshidipali08/DAA/tree/master/1710-maximum-units-on-a-truck) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/joshidipali08/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/joshidipali08/DAA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/joshidipali08/DAA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2706-buy-two-chocolates](https://github.com/joshidipali08/DAA/tree/master/2706-buy-two-chocolates) |
 | [3745-maximize-expression-of-three-elements](https://github.com/joshidipali08/DAA/tree/master/3745-maximize-expression-of-three-elements) |
 ## Counting
