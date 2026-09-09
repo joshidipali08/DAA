@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/joshidipali08/DAA/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/joshidipali08/DAA/tree/master/2864-maximum-odd-binary-number) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/joshidipali08/DAA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3745-maximize-expression-of-three-elements](https://github.com/joshidipali08/DAA/tree/master/3745-maximize-expression-of-three-elements) |
 ## Number Theory
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/joshidipali08/DAA/tree/master/0976-largest-perimeter-triangle) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/joshidipali08/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2706-buy-two-chocolates](https://github.com/joshidipali08/DAA/tree/master/2706-buy-two-chocolates) |
+| [3745-maximize-expression-of-three-elements](https://github.com/joshidipali08/DAA/tree/master/3745-maximize-expression-of-three-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/joshidipali08/DAA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/joshidipali08/DAA/tree/master/0976-largest-perimeter-triangle) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/joshidipali08/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2706-buy-two-chocolates](https://github.com/joshidipali08/DAA/tree/master/2706-buy-two-chocolates) |
+| [3745-maximize-expression-of-three-elements](https://github.com/joshidipali08/DAA/tree/master/3745-maximize-expression-of-three-elements) |
 ## Counting
 |  |
 | ------- |
@@ -213,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/joshidipali08/DAA/tree/master/0976-largest-perimeter-triangle) |
+## Enumeration
+|  |
+| ------- |
+| [3745-maximize-expression-of-three-elements](https://github.com/joshidipali08/DAA/tree/master/3745-maximize-expression-of-three-elements) |
 <!---LeetCode Topics End-->
